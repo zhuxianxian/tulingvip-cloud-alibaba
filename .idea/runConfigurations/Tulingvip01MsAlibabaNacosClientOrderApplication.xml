@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Tulingvip01MsAlibabaNacosClientOrderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" singleton="false">
+    <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+    <option name="SPRING_BOOT_MAIN_CLASS" value="com.tuling.Tulingvip01MsAlibabaNacosClientOrderApplication" />
+    <option name="ALTERNATIVE_JRE_PATH" />
+    <module name="tulingvip01-ms-alibaba-nacosclient-order" />
+    <envs />
+    <method />
+  </configuration>
+</component>

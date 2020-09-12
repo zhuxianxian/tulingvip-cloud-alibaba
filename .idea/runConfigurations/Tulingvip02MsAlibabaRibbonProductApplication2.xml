@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Tulingvip02MsAlibabaRibbonProductApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" singleton="false">
+    <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+    <option name="SPRING_BOOT_MAIN_CLASS" value="com.tuling.Tulingvip02MsAlibabaRibbonProductApplication" />
+    <option name="ALTERNATIVE_JRE_PATH" />
+    <module name="tulingvip02-ms-alibaba-ribbon-product" />
+    <envs />
+    <method />
+  </configuration>
+</component>

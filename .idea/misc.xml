@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/tulingvip-ms-alibaba-common/pom.xml" />
+        <option value="$PROJECT_DIR$/tulingvip01-ms-alibaba-rest-order/pom.xml" />
+        <option value="$PROJECT_DIR$/tulingvip-ms-alibaba-dao/pom.xml" />
+        <option value="$PROJECT_DIR$/tulingvip01-ms-alibaba-rest-product/pom.xml" />
+        <option value="$PROJECT_DIR$/tulingvip01-ms-alibaba-nacosclient-order/pom.xml" />
+        <option value="$PROJECT_DIR$/tulingvip01-ms-alibaba-nacosclient-product/pom.xml" />
+        <option value="$PROJECT_DIR$/tulingvip01-ms-alibaba-customlb-order/pom.xml" />
+        <option value="$PROJECT_DIR$/tulingvip02-ms-alibaba-customlb-order/pom.xml" />
+        <option value="$PROJECT_DIR$/tulingvip02-ms-alibaba-customlb-product/pom.xml" />
+        <option value="$PROJECT_DIR$/tulingvip02-ms-alibaba-ribbon-order/pom.xml" />
+        <option value="$PROJECT_DIR$/tulingvip02-ms-alibaba-ribbon-product/pom.xml" />
+        <option value="$PROJECT_DIR$/tulingvip02-ms-alibaba-customcfg-ribbon-order/pom.xml" />
+        <option value="$PROJECT_DIR$/tulingvip02-ms-alibaba-ribbon-pay/pom.xml" />
+        <option value="$PROJECT_DIR$/tulingvip03-ms-alibaba-feign-api/pom.xml" />
+        <option value="$PROJECT_DIR$/tulingvip03-ms-alibaba-feign-order/pom.xml" />
+        <option value="$PROJECT_DIR$/tulingvip02-ms-alibaba-feign-product/pom.xml" />
+        <option value="$PROJECT_DIR$/tulingvip03-ms-alibaba-feign-product/pom.xml" />
+        <option value="$PROJECT_DIR$/tulingvip03-ms-alibaba-customcfg-feign-order/pom.xml" />
+        <option value="$PROJECT_DIR$/tulingvip04-ms-alibaba-timeout-order/pom.xml" />
+        <option value="$PROJECT_DIR$/tulingvip04-ms-alibaba-timeout-product/pom.xml" />
+        <option value="$PROJECT_DIR$/tulingvip03-ms-alibaba-sentinel-order/pom.xml" />
+        <option value="$PROJECT_DIR$/tulingvip04-ms-alibaba-sentinel-order/pom.xml" />
+        <option value="$PROJECT_DIR$/tulingvip04-ms-alibaba-sentinel-product/pom.xml" />
+        <option value="$PROJECT_DIR$/tulingvip05-ms-alibaba-ribbonwithsentinel-order/pom.xml" />
+        <option value="$PROJECT_DIR$/tulingvip05-ms-alibaba-ribbonwithsentinel-product/pom.xml" />
+        <option value="$PROJECT_DIR$/tulingvip03-ms-alibaba-feignwithsentinel-order/pom.xml" />
+        <option value="$PROJECT_DIR$/tulingvip05-ms-alibaba-feignwithsentinel-product/pom.xml" />
+        <option value="$PROJECT_DIR$/tulingvip05-ms-alibaba-feignwithsentinel-order/pom.xml" />
+        <option value="$PROJECT_DIR$/tulingvip05-ms-alibaba-sentinelrulepersistence-order/pom.xml" />
+        <option value="$PROJECT_DIR$/tulingvip05-ms-alibaba-sentinelpersistencepush-order/pom.xml" />
+        <option value="$PROJECT_DIR$/tulingvip05-ms-alibaba-sentinelrulepersistencepull-order/pom.xml" />
+        <option value="$PROJECT_DIR$/tulingvip05-ms-alibaba-sentinelrulepersistencepush-order/pom.xml" />
+        <option value="$PROJECT_DIR$/tulingvip05-ms-alibaba-sentinelrulepersistenceahas-order/pom.xml" />
+        <option value="$PROJECT_DIR$/tulingvip05-ms-alibaba-sentinelrulepersistence-ahas-order/pom.xml" />
+        <option value="$PROJECT_DIR$/tulingvip05-ms-alibaba-sentinel-extension-order/pom.xml" />
+        <option value="$PROJECT_DIR$/tulingvip08-ms-alibaba-gateway-order/pom.xml" />
+        <option value="$PROJECT_DIR$/tulingvip08-ms-alibaba-gateway-product/pom.xml" />
+        <option value="$PROJECT_DIR$/tulingvip08-ms-cloud-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/tulingvip08-ms-cloud-gateway-sentinel/pom.xml" />
+        <option value="$PROJECT_DIR$/tulingvip01-ms-alibaba-config/pom.xml" />
+        <option value="$PROJECT_DIR$/tulingvip01-springboot-with-nacos-order/pom.xml" />
+        <option value="$PROJECT_DIR$/tulingvip04-ms-alibaba-sentinel-helloworld/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

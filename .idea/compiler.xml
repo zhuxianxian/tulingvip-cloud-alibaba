@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="tulingvip-ms-alibaba-common" />
+        <module name="tulingvip-ms-alibaba-dao" />
+        <module name="tulingvip01-ms-alibaba-config" />
+        <module name="tulingvip01-ms-alibaba-customlb-order" />
+        <module name="tulingvip01-ms-alibaba-nacosclient-order" />
+        <module name="tulingvip01-ms-alibaba-nacosclient-product" />
+        <module name="tulingvip01-ms-alibaba-nocasclient-order" />
+        <module name="tulingvip01-ms-alibaba-nocasclient-product" />
+        <module name="tulingvip01-ms-alibaba-rest-order" />
+        <module name="tulingvip01-ms-alibaba-rest-order (1)" />
+        <module name="tulingvip01-ms-alibaba-rest-product" />
+        <module name="tulingvip01-ms-alibaba-rest-product (1)" />
+        <module name="tulingvip01-springboot-with-nacos-order" />
+        <module name="tulingvip02-ms-alibaba-customcfg-ribbon-order" />
+        <module name="tulingvip02-ms-alibaba-customlb-order" />
+        <module name="tulingvip02-ms-alibaba-customlb-order (1)" />
+        <module name="tulingvip02-ms-alibaba-customlb-product" />
+        <module name="tulingvip02-ms-alibaba-customlb-product (1)" />
+        <module name="tulingvip02-ms-alibaba-ribbon-order" />
+        <module name="tulingvip02-ms-alibaba-ribbon-order (1)" />
+        <module name="tulingvip02-ms-alibaba-ribbon-pay" />
+        <module name="tulingvip02-ms-alibaba-ribbon-product" />
+        <module name="tulingvip02-ms-alibaba-ribbon-product (1)" />
+        <module name="tulingvip03-ms-alibaba-customcfg-feign-order" />
+        <module name="tulingvip03-ms-alibaba-feign-api" />
+        <module name="tulingvip03-ms-alibaba-feign-order" />
+        <module name="tulingvip03-ms-alibaba-feign-order (1)" />
+        <module name="tulingvip03-ms-alibaba-Feign-product" />
+        <module name="tulingvip03-ms-alibaba-feign-product" />
+        <module name="tulingvip03-ms-alibaba-feign-product (1)" />
+        <module name="tulingvip03-ms-alibaba-sentinel-order" />
+        <module name="tulingvip04-ms-alibaba-nacos-product" />
+        <module name="tulingvip04-ms-alibaba-sentinel-helloworld" />
+        <module name="tulingvip04-ms-alibaba-sentinel-order" />
+        <module name="tulingvip04-ms-alibaba-sentinel-product" />
+        <module name="tulingvip04-ms-alibaba-timeout-order" />
+        <module name="tulingvip04-ms-alibaba-timeout-product" />
+        <module name="tulingvip05-ms-alibaba-feignwithsentinel-order" />
+        <module name="tulingvip05-ms-alibaba-feignwithsentinel-product" />
+        <module name="tulingvip05-ms-alibaba-ribbonwithsentinel-order" />
+        <module name="tulingvip05-ms-alibaba-ribbonwithsentinel-order (1)" />
+        <module name="tulingvip05-ms-alibaba-ribbonwithsentinel-product" />
+        <module name="tulingvip05-ms-alibaba-sentinel-extension-order" />
+        <module name="tulingvip05-ms-alibaba-sentinelpersistencepush-order (1)" />
+        <module name="tulingvip05-ms-alibaba-sentinelrulepersistence-ahas-order" />
+        <module name="tulingvip05-ms-alibaba-sentinelrulepersistence-order" />
+        <module name="tulingvip05-ms-alibaba-sentinelrulepersistencepull-order" />
+        <module name="tulingvip05-ms-alibaba-sentinelrulepersistencepush-order" />
+        <module name="tulingvip05-ms-alibaba-sentinelrulepersistencepush-order (1)" />
+        <module name="tulingvip05-ms-alibaba-token-client" />
+        <module name="tulingvip08-ms-alibaba-gateway-order" />
+        <module name="tulingvip08-ms-alibaba-gateway-product" />
+        <module name="tulingvip08-ms-cloud-gateway" />
+        <module name="tulingvip08-ms-cloud-gateway-sentinel" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="tulingvip-cloud-alibaba" target="1.8" />
+      <module name="tulingvip-ms-alibaba-common" target="1.8" />
+      <module name="tulingvip-ms-alibaba-dao" target="1.8" />
+      <module name="tulingvip01-ms-alibaba-config" target="1.8" />
+      <module name="tulingvip01-ms-alibaba-customlb-order" target="1.8" />
+      <module name="tulingvip01-ms-alibaba-nacosclient-order" target="1.8" />
+      <module name="tulingvip01-ms-alibaba-nacosclient-product" target="1.8" />
+      <module name="tulingvip01-ms-alibaba-nocasclient-order" target="1.8" />
+      <module name="tulingvip01-ms-alibaba-nocasclient-product" target="1.8" />
+      <module name="tulingvip01-ms-alibaba-rest-order" target="1.8" />
+      <module name="tulingvip01-ms-alibaba-rest-order (1)" target="1.8" />
+      <module name="tulingvip01-ms-alibaba-rest-product" target="1.8" />
+      <module name="tulingvip01-ms-alibaba-rest-product (1)" target="1.8" />
+      <module name="tulingvip01-springboot-with-nacos-order" target="1.8" />
+      <module name="tulingvip02-ms-alibaba-customcfg-ribbon-order" target="1.8" />
+      <module name="tulingvip02-ms-alibaba-customlb-order" target="1.8" />
+      <module name="tulingvip02-ms-alibaba-customlb-order (1)" target="1.8" />
+      <module name="tulingvip02-ms-alibaba-customlb-product" target="1.8" />
+      <module name="tulingvip02-ms-alibaba-customlb-product (1)" target="1.8" />
+      <module name="tulingvip02-ms-alibaba-ribbon-order" target="1.8" />
+      <module name="tulingvip02-ms-alibaba-ribbon-order (1)" target="1.8" />
+      <module name="tulingvip02-ms-alibaba-ribbon-pay" target="1.8" />
+      <module name="tulingvip02-ms-alibaba-ribbon-product" target="1.8" />
+      <module name="tulingvip02-ms-alibaba-ribbon-product (1)" target="1.8" />
+      <module name="tulingvip03-ms-alibaba-customcfg-feign-order" target="1.8" />
+      <module name="tulingvip03-ms-alibaba-feign-api" target="1.8" />
+      <module name="tulingvip03-ms-alibaba-feign-order" target="1.8" />
+      <module name="tulingvip03-ms-alibaba-feign-order (1)" target="1.8" />
+      <module name="tulingvip03-ms-alibaba-Feign-product" target="1.8" />
+      <module name="tulingvip03-ms-alibaba-feign-product" target="1.8" />
+      <module name="tulingvip03-ms-alibaba-feign-product (1)" target="1.8" />
+      <module name="tulingvip03-ms-alibaba-sentinel-order" target="1.8" />
+      <module name="tulingvip04-ms-alibaba-nacos-product" target="1.8" />
+      <module name="tulingvip04-ms-alibaba-sentinel-helloworld" target="1.8" />
+      <module name="tulingvip04-ms-alibaba-sentinel-order" target="1.8" />
+      <module name="tulingvip04-ms-alibaba-sentinel-product" target="1.8" />
+      <module name="tulingvip04-ms-alibaba-timeout-order" target="1.8" />
+      <module name="tulingvip04-ms-alibaba-timeout-order (1)" target="1.8" />
+      <module name="tulingvip04-ms-alibaba-timeout-product" target="1.8" />
+      <module name="tulingvip05-ms-alibaba-feignwithsentinel-order" target="1.8" />
+      <module name="tulingvip05-ms-alibaba-feignwithsentinel-product" target="1.8" />
+      <module name="tulingvip05-ms-alibaba-ribbonwithsentinel-order" target="1.8" />
+      <module name="tulingvip05-ms-alibaba-ribbonwithsentinel-order (1)" target="1.8" />
+      <module name="tulingvip05-ms-alibaba-ribbonwithsentinel-product" target="1.8" />
+      <module name="tulingvip05-ms-alibaba-sentinel-extension-order" target="1.8" />
+      <module name="tulingvip05-ms-alibaba-sentinelpersistencepush-order" target="1.8" />
+      <module name="tulingvip05-ms-alibaba-sentinelpersistencepush-order (1)" target="1.8" />
+      <module name="tulingvip05-ms-alibaba-sentinelrulepersistence-ahas-order" target="1.8" />
+      <module name="tulingvip05-ms-alibaba-sentinelrulepersistence-order" target="1.8" />
+      <module name="tulingvip05-ms-alibaba-sentinelrulepersistencepull-order" target="1.8" />
+      <module name="tulingvip05-ms-alibaba-sentinelrulepersistencepush-order" target="1.8" />
+      <module name="tulingvip05-ms-alibaba-sentinelrulepersistencepush-order (1)" target="1.8" />
+      <module name="tulingvip05-ms-alibaba-token-client" target="1.8" />
+      <module name="tulingvip05-ms-alibaba-token-server" target="1.8" />
+      <module name="tulingvip05-ms-token-client" target="1.8" />
+      <module name="tulingvip08-ms-alibaba-gateway-order" target="1.8" />
+      <module name="tulingvip08-ms-alibaba-gateway-product" target="1.8" />
+      <module name="tulingvip08-ms-cloud-gateway" target="1.8" />
+      <module name="tulingvip08-ms-cloud-gateway-sentinel" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
