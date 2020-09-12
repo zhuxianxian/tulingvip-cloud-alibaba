@@ -7,6 +7,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
 
 /**
  * Created by smlz on 2019/11/24.
+ * 异常处理
  */
 @ControllerAdvice
 public class TulingExceptionHandler {

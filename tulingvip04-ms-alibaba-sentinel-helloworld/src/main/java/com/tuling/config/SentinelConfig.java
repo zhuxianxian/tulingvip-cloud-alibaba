@@ -8,6 +8,7 @@ import org.springframework.context.annotation.Configuration;
 
 /**
  * Created by smlz on 2020/2/13.
+ * 配置的切面
  */
 @Configuration
 public class SentinelConfig {

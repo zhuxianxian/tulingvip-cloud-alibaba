@@ -2,8 +2,8 @@ spring:
   datasource:
       druid:
         username: root
-        password: Zw726515
-        jdbcUrl: jdbc:mysql://localhost:3306/tuling-ms-alibaba?serverTimezone=Asia/Shanghai&useUnicode=true&characterEncoding=UTF-8&useSSL=false
+        password: root
+        jdbcUrl: jdbc:mysql://localhost:3306/tuling?serverTimezone=Asia/Shanghai&useUnicode=true&characterEncoding=UTF-8&useSSL=false
         driverClassName: com.mysql.jdbc.Driver
         initialSize: 5
         minIdle: 5
@@ -26,10 +26,10 @@ spring:
         server-addr: localhost:8848
     sentinel:
       transport:
-        dashboard: localhost:9999
+        dashboard: localhost:9999  #sentinel 启动java -jar sentinel-dashboard-1.7.0.jar --server.port=9999
 
       filter:
-        enabled: true  #关闭Spring mvc的端点保护
+        enabled: true  #false关闭Spring mvc的端点保护
         #namespace: bc7613d2-2e22-4292-a748-48b78170f14c  #指定namespace的id
   application:
     name: order-center

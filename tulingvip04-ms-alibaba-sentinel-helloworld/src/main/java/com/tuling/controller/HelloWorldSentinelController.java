@@ -80,7 +80,6 @@ public class HelloWorldSentinelController {
         flowRule3.setCount(1);
 
 
-
         flowRules.add(flowRule);
         flowRules.add(flowRule2);
         flowRules.add(flowRule3);
@@ -111,6 +110,7 @@ public class HelloWorldSentinelController {
         Entry entity =null;
         //关联受保护的资源
         try {
+            // 保护开始
             entity = SphU.entry("helloSentinelV1");
             //开始执行 自己的业务方法
             busiService.doBusi();
@@ -120,6 +120,7 @@ public class HelloWorldSentinelController {
             return "testHelloSentinelV1方法被流控了";
         }finally {
             if(entity!=null) {
+                // 保护退出
                 entity.exit();
             }
         }
@@ -141,6 +142,8 @@ public class HelloWorldSentinelController {
      *   可选项。blockHandler 函数访问范围需要是 public，返回类型需要与原方法相匹配，
      *   参数类型需要和原方法相匹配并且最后加一个额外的参数，
      *   类型为 BlockException。blockHandler 函数默认需要和原方法在同一个类中
+     *
+     *   需要在../config下配置切面识别SentinelResource注解
      * @return
      */
     @RequestMapping("/helloSentinelV2")

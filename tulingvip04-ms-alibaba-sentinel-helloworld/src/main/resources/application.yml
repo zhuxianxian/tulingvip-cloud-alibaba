@@ -1,0 +1,30 @@
+spring:
+  cloud:
+    sentinel:
+      transport:
+        dashboard: localhost:9999  #sentinel 启动java -jar sentinel-dashboard-1.7.0.jar --server.port=9999
+
+      filter:
+        enabled: true  #关闭Spring mvc的端点保护
+        #namespace: bc7613d2-2e22-4292-a748-48b78170f14c  #指定namespace的id
+  application:
+    name: order-center
+  main:
+    allow-bean-definition-overriding: true
+
+
+#指定FeignClientApi的日志级别
+
+server:
+  port: 8080
+management:
+  endpoints:
+    web:
+      exposure:
+        include: '*'
+
+
+
+
+
+

@@ -8,6 +8,7 @@ import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
 
 /**
  * Created by smlz on 2020/2/19.
+ * 配置拦截器
  */
 @Configuration
 public class TulingWebConfig implements WebMvcConfigurer {
@@ -15,6 +16,6 @@ public class TulingWebConfig implements WebMvcConfigurer {
 
     @Override
     public void addInterceptors(InterceptorRegistry registry) {
-        registry.addInterceptor(new SentinelInterceptors()).addPathPatterns("*");
+        registry.addInterceptor(new SentinelInterceptors()).addPathPatterns("/**");
     }
 }

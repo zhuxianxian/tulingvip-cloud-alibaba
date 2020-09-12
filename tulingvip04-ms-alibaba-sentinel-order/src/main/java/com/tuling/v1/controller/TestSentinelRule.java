@@ -10,13 +10,13 @@ import java.util.Date;
 public class TestSentinelRule {
 
     public static void main(String[] args) throws InterruptedException {
-        RestTemplate restTemplate = new RestTemplate();
+        /*RestTemplate restTemplate = new RestTemplate();
         for(int i=0;i<1000;i++) {
             restTemplate.postForObject("http://localhost:8080/saveOrder",null,String.class);
             Thread.sleep(10);
-        }
+        }*/
 
-        /*testWaiting();*/
+        testWaiting();
 
     }
 
