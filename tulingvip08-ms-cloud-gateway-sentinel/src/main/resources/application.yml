@@ -20,11 +20,11 @@ spring:
             - Path=/order/**
     nacos:
       discovery:
-        server-addr: localhost:8848
+        server-addr: 192.168.86.111:8848
 
     sentinel:
       transport:
-        dashboard: localhost:9999
+        dashboard: 192.168.86.111:9999
       datasource:
         gw-flow:
           nacos:

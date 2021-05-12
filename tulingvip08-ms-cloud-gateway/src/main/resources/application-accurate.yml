@@ -1,5 +1,5 @@
-#gateway精确匹配   表示这里的http://localhost:8888/projects请求都会转发到https://spring.io/projects
-#假设我们这里访问的是http://localhost:8888/projects  那么他就会转发到http://spring.io/projects下
+#gateway精确匹配   表示这里的http://192.168.86.111:8888/projects请求都会转发到https://spring.io/projects
+#假设我们这里访问的是http://192.168.86.111:8888/projects  那么他就会转发到http://spring.io/projects下
 #所以我们页面看到的就是spring的官网页面.
 
 spring:

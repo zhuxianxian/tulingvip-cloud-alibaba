@@ -7,6 +7,6 @@ spring:
        - id: method #id必须要唯一
          uri: lb://product-center
          predicates:
-           #当前请求的方式 http://localhost:8888/selectProductInfoById/1 是Post才会被转发
+           #当前请求的方式 http://192.168.86.111:8888/selectProductInfoById/1 是Post才会被转发
            #到http://product-center/selectProductInfoById/1
            - Method=Post

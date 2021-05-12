@@ -17,6 +17,6 @@ spring:
                 key-resolver: "#{@pathKeyResovler}"
 
   redis:
-    host: localhost
+    host: 192.168.86.111
     port: 6379
     database: 0

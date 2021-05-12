@@ -2,7 +2,7 @@ spring:
   cloud:
     sentinel:
       transport:
-        dashboard: localhost:9999  #sentinel 启动java -jar sentinel-dashboard-1.7.0.jar --server.port=9999
+        dashboard: 192.168.86.111:9999  #sentinel 启动java -jar sentinel-dashboard-1.7.0.jar --server.port=9999
 
       filter:
         enabled: true  #关闭Spring mvc的端点保护
