@@ -25,10 +25,10 @@ public class ProductCenterFeignConfig {
      * @return
      */
 
-/*    @Bean
-    public Contract feiContract() {
-        return new Contract.Default();
-    }*/
+//    @Bean
+//    public Contract feiContract() {
+//        return new Contract.Default();
+//    }
 
     @Bean
     public RequestInterceptor requestInterceptor() {

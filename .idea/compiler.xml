@@ -2,64 +2,65 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="tulingvip-ms-alibaba-common" />
-        <module name="tulingvip-ms-alibaba-dao" />
-        <module name="tulingvip01-ms-alibaba-config" />
+        <module name="tulingvip05-ms-alibaba-token-client" />
+        <module name="tulingvip03-ms-alibaba-feign-order (1)" />
+        <module name="tulingvip03-ms-alibaba-feign-order" />
+        <module name="tulingvip03-ms-alibaba-feign-product (1)" />
+        <module name="tulingvip04-ms-alibaba-nacos-product" />
+        <module name="tulingvip04-ms-alibaba-sentinel-product" />
+        <module name="tulingvip05-ms-alibaba-sentinelpersistencepush-order (1)" />
         <module name="tulingvip01-ms-alibaba-customlb-order" />
         <module name="tulingvip01-ms-alibaba-nacosclient-order" />
-        <module name="tulingvip01-ms-alibaba-nacosclient-product" />
-        <module name="tulingvip01-ms-alibaba-nocasclient-order" />
-        <module name="tulingvip01-ms-alibaba-nocasclient-product" />
-        <module name="tulingvip01-ms-alibaba-rest-order" />
         <module name="tulingvip01-ms-alibaba-rest-order (1)" />
-        <module name="tulingvip01-ms-alibaba-rest-product" />
-        <module name="tulingvip01-ms-alibaba-rest-product (1)" />
-        <module name="tulingvip01-springboot-with-nacos-order" />
-        <module name="tulingvip02-ms-alibaba-customcfg-ribbon-order" />
-        <module name="tulingvip02-ms-alibaba-customlb-order" />
-        <module name="tulingvip02-ms-alibaba-customlb-order (1)" />
-        <module name="tulingvip02-ms-alibaba-customlb-product" />
-        <module name="tulingvip02-ms-alibaba-customlb-product (1)" />
-        <module name="tulingvip02-ms-alibaba-ribbon-order" />
-        <module name="tulingvip02-ms-alibaba-ribbon-order (1)" />
-        <module name="tulingvip02-ms-alibaba-ribbon-pay" />
-        <module name="tulingvip02-ms-alibaba-ribbon-product" />
-        <module name="tulingvip02-ms-alibaba-ribbon-product (1)" />
-        <module name="tulingvip03-ms-alibaba-customcfg-feign-order" />
-        <module name="tulingvip03-ms-alibaba-feign-api" />
-        <module name="tulingvip03-ms-alibaba-feign-order" />
-        <module name="tulingvip03-ms-alibaba-feign-order (1)" />
         <module name="tulingvip03-ms-alibaba-Feign-product" />
-        <module name="tulingvip03-ms-alibaba-feign-product" />
-        <module name="tulingvip03-ms-alibaba-feign-product (1)" />
         <module name="tulingvip03-ms-alibaba-sentinel-order" />
-        <module name="tulingvip04-ms-alibaba-nacos-product" />
-        <module name="tulingvip04-ms-alibaba-sentinel-helloworld" />
-        <module name="tulingvip04-ms-alibaba-sentinel-order" />
-        <module name="tulingvip04-ms-alibaba-sentinel-product" />
-        <module name="tulingvip04-ms-alibaba-timeout-order" />
-        <module name="tulingvip04-ms-alibaba-timeout-product" />
-        <module name="tulingvip05-ms-alibaba-feignwithsentinel-order" />
-        <module name="tulingvip05-ms-alibaba-feignwithsentinel-product" />
-        <module name="tulingvip05-ms-alibaba-ribbonwithsentinel-order" />
         <module name="tulingvip05-ms-alibaba-ribbonwithsentinel-order (1)" />
-        <module name="tulingvip05-ms-alibaba-ribbonwithsentinel-product" />
-        <module name="tulingvip05-ms-alibaba-sentinel-extension-order" />
-        <module name="tulingvip05-ms-alibaba-sentinelpersistencepush-order (1)" />
-        <module name="tulingvip05-ms-alibaba-sentinelrulepersistence-ahas-order" />
-        <module name="tulingvip05-ms-alibaba-sentinelrulepersistence-order" />
-        <module name="tulingvip05-ms-alibaba-sentinelrulepersistencepull-order" />
+        <module name="tulingvip05-ms-alibaba-feignwithsentinel-order" />
+        <module name="tulingvip04-ms-alibaba-sentinel-helloworld" />
+        <module name="tulingvip01-springboot-with-nacos-order" />
         <module name="tulingvip05-ms-alibaba-sentinelrulepersistencepush-order" />
-        <module name="tulingvip05-ms-alibaba-sentinelrulepersistencepush-order (1)" />
-        <module name="tulingvip05-ms-alibaba-token-client" />
-        <module name="tulingvip08-ms-alibaba-gateway-order" />
-        <module name="tulingvip08-ms-alibaba-gateway-product" />
+        <module name="tulingvip05-ms-alibaba-sentinelrulepersistence-ahas-order" />
+        <module name="tulingvip04-ms-alibaba-timeout-order" />
+        <module name="tulingvip05-ms-alibaba-feignwithsentinel-product" />
+        <module name="tulingvip02-ms-alibaba-customlb-product" />
+        <module name="tulingvip01-ms-alibaba-rest-order" />
+        <module name="tulingvip02-ms-alibaba-ribbon-product (1)" />
+        <module name="tulingvip05-ms-alibaba-ribbonwithsentinel-order" />
+        <module name="tulingvip02-ms-alibaba-customlb-order (1)" />
+        <module name="tulingvip05-ms-alibaba-sentinelrulepersistence-order" />
+        <module name="tulingvip01-ms-alibaba-config" />
         <module name="tulingvip08-ms-cloud-gateway" />
+        <module name="tulingvip08-ms-alibaba-gateway-product" />
+        <module name="tulingvip04-ms-alibaba-timeout-product" />
+        <module name="tulingvip05-ms-alibaba-sentinelrulepersistencepush-order (1)" />
+        <module name="tulingvip05-ms-alibaba-sentinel-extension-order" />
+        <module name="tulingvip02-ms-alibaba-ribbon-order" />
+        <module name="tulingvip03-ms-alibaba-customcfg-feign-order" />
+        <module name="tulingvip-ms-alibaba-common" />
+        <module name="tulingvip03-ms-alibaba-feign-product" />
+        <module name="tulingvip01-ms-alibaba-rest-product" />
+        <module name="tulingvip02-ms-alibaba-ribbon-pay" />
+        <module name="tulingvip01-ms-alibaba-nocasclient-order" />
+        <module name="tulingvip02-ms-alibaba-customcfg-ribbon-order" />
+        <module name="tulingvip01-ms-alibaba-nacosclient-product" />
+        <module name="tulingvip01-ms-alibaba-nocasclient-product" />
+        <module name="tulingvip-ms-alibaba-dao" />
+        <module name="tulingvip05-ms-alibaba-ribbonwithsentinel-product" />
+        <module name="tulingvip05-ms-alibaba-sentinelrulepersistencepull-order" />
+        <module name="tulingvip01-ms-alibaba-rest-product (1)" />
+        <module name="tulingvip02-ms-alibaba-customlb-product (1)" />
+        <module name="tulingvip02-ms-alibaba-ribbon-order (1)" />
+        <module name="tulingvip02-ms-alibaba-customlb-order" />
         <module name="tulingvip08-ms-cloud-gateway-sentinel" />
+        <module name="tulingvip08-ms-alibaba-gateway-order" />
+        <module name="tulingvip02-ms-alibaba-ribbon-product" />
+        <module name="tulingvip04-ms-alibaba-sentinel-order" />
+        <module name="tulingvip03-ms-alibaba-feign-api" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -123,5 +124,44 @@
       <module name="tulingvip08-ms-cloud-gateway" target="1.8" />
       <module name="tulingvip08-ms-cloud-gateway-sentinel" target="1.8" />
     </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="tulingvip-ms-alibaba-common" options="-parameters" />
+      <module name="tulingvip-ms-alibaba-dao" options="-parameters" />
+      <module name="tulingvip01-ms-alibaba-config" options="-parameters" />
+      <module name="tulingvip01-ms-alibaba-nacosclient-order" options="-parameters" />
+      <module name="tulingvip01-ms-alibaba-nacosclient-product" options="-parameters" />
+      <module name="tulingvip01-ms-alibaba-rest-order" options="-parameters" />
+      <module name="tulingvip01-ms-alibaba-rest-product" options="-parameters" />
+      <module name="tulingvip01-springboot-with-nacos-order" options="-parameters" />
+      <module name="tulingvip02-ms-alibaba-customcfg-ribbon-order" options="-parameters" />
+      <module name="tulingvip02-ms-alibaba-customlb-order" options="-parameters" />
+      <module name="tulingvip02-ms-alibaba-customlb-product" options="-parameters" />
+      <module name="tulingvip02-ms-alibaba-ribbon-order" options="-parameters" />
+      <module name="tulingvip02-ms-alibaba-ribbon-pay" options="-parameters" />
+      <module name="tulingvip02-ms-alibaba-ribbon-product" options="-parameters" />
+      <module name="tulingvip03-ms-alibaba-customcfg-feign-order" options="-parameters" />
+      <module name="tulingvip03-ms-alibaba-feign-api" options="-parameters" />
+      <module name="tulingvip03-ms-alibaba-feign-order" options="-parameters" />
+      <module name="tulingvip03-ms-alibaba-feign-product" options="-parameters" />
+      <module name="tulingvip04-ms-alibaba-sentinel-helloworld" options="-parameters" />
+      <module name="tulingvip04-ms-alibaba-sentinel-order" options="-parameters" />
+      <module name="tulingvip04-ms-alibaba-sentinel-product" options="-parameters" />
+      <module name="tulingvip04-ms-alibaba-timeout-order" options="-parameters" />
+      <module name="tulingvip04-ms-alibaba-timeout-product" options="-parameters" />
+      <module name="tulingvip05-ms-alibaba-feignwithsentinel-order" options="-parameters" />
+      <module name="tulingvip05-ms-alibaba-feignwithsentinel-product" options="-parameters" />
+      <module name="tulingvip05-ms-alibaba-ribbonwithsentinel-order" options="-parameters" />
+      <module name="tulingvip05-ms-alibaba-ribbonwithsentinel-product" options="-parameters" />
+      <module name="tulingvip05-ms-alibaba-sentinel-extension-order" options="-parameters" />
+      <module name="tulingvip05-ms-alibaba-sentinelrulepersistence-ahas-order" options="-parameters" />
+      <module name="tulingvip05-ms-alibaba-sentinelrulepersistencepull-order" options="-parameters" />
+      <module name="tulingvip05-ms-alibaba-sentinelrulepersistencepush-order" options="-parameters" />
+      <module name="tulingvip08-ms-alibaba-gateway-order" options="-parameters" />
+      <module name="tulingvip08-ms-alibaba-gateway-product" options="-parameters" />
+      <module name="tulingvip08-ms-cloud-gateway" options="-parameters" />
+      <module name="tulingvip08-ms-cloud-gateway-sentinel" options="-parameters" />
+    </option>
   </component>
 </project>

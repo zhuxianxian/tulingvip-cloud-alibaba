@@ -3,40 +3,75 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/tulingvip-ms-alibaba-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tulingvip-ms-alibaba-common/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/tulingvip-ms-alibaba-dao" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tulingvip-ms-alibaba-dao/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/tulingvip01-ms-alibaba-config" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tulingvip01-ms-alibaba-config/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/tulingvip01-ms-alibaba-nacosclient-order" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tulingvip01-ms-alibaba-nacosclient-order/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/tulingvip01-ms-alibaba-nacosclient-product" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tulingvip01-ms-alibaba-nacosclient-product/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/tulingvip01-ms-alibaba-rest-order" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tulingvip01-ms-alibaba-rest-order/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/tulingvip01-ms-alibaba-rest-product" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tulingvip01-ms-alibaba-rest-product/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/tulingvip01-springboot-with-nacos-order" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tulingvip01-springboot-with-nacos-order/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/tulingvip02-ms-alibaba-customcfg-ribbon-order" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tulingvip02-ms-alibaba-customcfg-ribbon-order/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/tulingvip02-ms-alibaba-customlb-order" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tulingvip02-ms-alibaba-customlb-order/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/tulingvip02-ms-alibaba-customlb-product" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tulingvip02-ms-alibaba-customlb-product/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/tulingvip02-ms-alibaba-ribbon-order" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tulingvip02-ms-alibaba-ribbon-order/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/tulingvip02-ms-alibaba-ribbon-pay" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tulingvip02-ms-alibaba-ribbon-pay/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/tulingvip02-ms-alibaba-ribbon-product" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tulingvip02-ms-alibaba-ribbon-product/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/tulingvip03-ms-alibaba-customcfg-feign-order" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tulingvip03-ms-alibaba-customcfg-feign-order/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/tulingvip03-ms-alibaba-feign-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tulingvip03-ms-alibaba-feign-api/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/tulingvip03-ms-alibaba-feign-order" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tulingvip03-ms-alibaba-feign-order/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/tulingvip03-ms-alibaba-feign-product" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tulingvip03-ms-alibaba-feign-product/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/tulingvip04-ms-alibaba-sentinel-helloworld" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tulingvip04-ms-alibaba-sentinel-helloworld/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/tulingvip04-ms-alibaba-sentinel-order" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tulingvip04-ms-alibaba-sentinel-order/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/tulingvip04-ms-alibaba-sentinel-product" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tulingvip04-ms-alibaba-sentinel-product/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/tulingvip04-ms-alibaba-timeout-order" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tulingvip04-ms-alibaba-timeout-order/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/tulingvip04-ms-alibaba-timeout-product" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tulingvip04-ms-alibaba-timeout-product/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/tulingvip05-ms-alibaba-feignwithsentinel-order" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tulingvip05-ms-alibaba-feignwithsentinel-order/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/tulingvip05-ms-alibaba-feignwithsentinel-product" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tulingvip05-ms-alibaba-feignwithsentinel-product/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/tulingvip05-ms-alibaba-ribbonwithsentinel-order" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tulingvip05-ms-alibaba-ribbonwithsentinel-order/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/tulingvip05-ms-alibaba-ribbonwithsentinel-product" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tulingvip05-ms-alibaba-ribbonwithsentinel-product/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/tulingvip05-ms-alibaba-sentinel-extension-order" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tulingvip05-ms-alibaba-sentinel-extension-order/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/tulingvip05-ms-alibaba-sentinelrulepersistence-ahas-order" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tulingvip05-ms-alibaba-sentinelrulepersistence-ahas-order/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/tulingvip05-ms-alibaba-sentinelrulepersistencepull-order" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tulingvip05-ms-alibaba-sentinelrulepersistencepull-order/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/tulingvip05-ms-alibaba-sentinelrulepersistencepush-order" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tulingvip05-ms-alibaba-sentinelrulepersistencepush-order/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/tulingvip08-ms-alibaba-gateway-order" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tulingvip08-ms-alibaba-gateway-order/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/tulingvip08-ms-alibaba-gateway-product" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tulingvip08-ms-alibaba-gateway-product/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/tulingvip08-ms-cloud-gateway" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/tulingvip08-ms-cloud-gateway-sentinel" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tulingvip08-ms-cloud-gateway-sentinel/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tulingvip08-ms-cloud-gateway/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/tulingvip08-ms-cloud-gateway/src/main/resources/application-tongpei.yml.bak" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/tulingvip08-ms-cloud-gateway/src/main/resources/application.yml" charset="GBK" />
   </component>

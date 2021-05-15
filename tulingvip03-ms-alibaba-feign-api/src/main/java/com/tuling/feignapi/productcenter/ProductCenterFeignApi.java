@@ -39,4 +39,19 @@ public interface ProductCenterFeignApi {
 
     @RequestMapping("/getToken4Header")
     String getToken4Header();
+
+
+    /**
+     * 修改锲约为Feign的  那么就可以使用默认的注解
+     * @param productNo
+     * @return
+     */
+//     @RequestLine("GET /selectProductInfoById/{productNo}")
+//     ProductInfo selectProductInfoById(@Param("productNo") String productNo);
+
+
+//     @RequestLine("GET /getToken4Header")
+//     String getToken4Header();
+//     String getToken4Header(@RequestHeader("token") String token);
+
 }

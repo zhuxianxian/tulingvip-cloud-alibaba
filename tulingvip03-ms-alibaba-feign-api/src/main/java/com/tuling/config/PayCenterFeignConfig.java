@@ -1,6 +1,7 @@
 package com.tuling.config;
 
 import com.tuling.handler.TulingRequestInterceptor;
+import feign.Contract;
 import feign.Logger;
 import feign.RequestInterceptor;
 import org.springframework.context.annotation.Bean;
@@ -26,10 +27,10 @@ public class PayCenterFeignConfig {
      * @return
      */
 
-/*    @Bean
+    @Bean
     public Contract feiContract() {
         return new Contract.Default();
-    }*/
+    }
 
     @Bean
     public RequestInterceptor requestInterceptor() {

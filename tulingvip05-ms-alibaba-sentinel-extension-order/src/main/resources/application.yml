@@ -2,7 +2,7 @@ spring:
   datasource:
       druid:
         username: root
-        password: Zw726515
+        password: pass
         jdbcUrl: jdbc:mysql://192.168.86.111:3306/tuling-ms-alibaba?serverTimezone=GMT%2B8
         driverClassName: com.mysql.jdbc.Driver
         initialSize: 5
